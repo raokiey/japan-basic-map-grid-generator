@@ -36,12 +36,13 @@ python grid_generator.py 8 500 ./grid/
 - [ ] 生成した図郭を表示できるWebアプリケーションの開発
 
 ## 参考資料
-- 国土基本図の図郭について
+- 国土基本図の図郭について  
     [測量法第34条で定める作業規程の準則　付録７　公共測量標準図式](https://psgsv2.gsi.go.jp/koukyou/jyunsoku/pdf/r2/r2_junsoku_furoku7_0609.pdf)　第84条
 
-- 図郭生成の考え方など
+- 図郭生成の考え方など  
     [こちらのブログ記事](https://qiita.com/shiba54/items/29b8722189fbfe5235cb)を参考にさせて頂きました。
-- レベル1250について
+
+- レベル1250について  
     [こちらの資料](https://www.maff.go.jp/j/budget/yosan_kansi/sikkou/tokutei_keihi/seika_H30/ippan/attach/pdf/index-126.pdf)などに記載があったので、公共測量標準図式にはありませんが追加しました。
 
 ## License
